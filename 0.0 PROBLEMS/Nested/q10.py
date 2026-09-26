@@ -1,0 +1,6 @@
+﻿# Question 10
+# # Question-10
+# for i in range (5):
+#     for j in range (1,6):
+#         print(j*j, end=" ")
+#     print() 
