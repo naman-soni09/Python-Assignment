@@ -121,9 +121,7 @@
 
 
 
-# ==========================================
-# 12. Character Type
-# ==========================================
+
 char = input("Enter a character: ")
 
 if char >= 'A' and char <= 'Z':
@@ -136,9 +134,7 @@ else:
     print("Special character")
 
 
-# ==========================================
-# 13. Vowel or Consonant
-# ==========================================
+
 char = input("Enter a character: ")
 
 if (char >= 'A' and char <= 'Z') or (char >= 'a' and char <= 'z'):
@@ -150,9 +146,7 @@ else:
     print("Invalid input")
 
 
-# ==========================================
-# 14. Profit or Loss
-# ==========================================
+
 cp = float(input("Enter Cost Price: "))
 sp = float(input("Enter Selling Price: "))
 
@@ -164,9 +158,7 @@ else:
     print("No profit and no loss")
 
 
-# ==========================================
-# 15. Profit/Loss Percentage
-# ==========================================
+
 cp = float(input("Enter Cost Price: "))
 sp = float(input("Enter Selling Price: "))
 
