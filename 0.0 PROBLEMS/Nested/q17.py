@@ -1,8 +1,7 @@
 ﻿# Question 17
-# # Question- 17
-# count=0
-# for i in range(4):
-#     for j in range(5):
-#         count=count+1
-#         print(count,end=" ")
-#     print()    
+n=0
+for i in range(3):
+    for j in range(3):
+        n=n+1
+        print(n,end=" ")
+    print()    
